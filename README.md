@@ -9,7 +9,7 @@ How to use :
 - Bikin bookmark dulu di browser
 - name : isi terserah
 - URL : copas dari script
-![Alt text](https://ibb.co/TmB8q6v)
+(https://ibb.co/TmB8q6v)
 - 1 bookmark untuk 1 script
 - KuisionerKepuasanLayanan.js buat halaman kuisioner kepuasan layanan
 - PraktikumAndTeori.js buat halaman kuisoner Praktikum dan Teori (jangan lupa pilih matkulnya dulu)
